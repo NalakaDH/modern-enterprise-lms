@@ -68,8 +68,8 @@ npm install
 ```env
 PORT=5001
 DB_HOST=localhost
-DB_USER=your_mysql_username
-DB_PASSWORD=your_mysql_password
+DB_USER=root
+DB_PASSWORD=
 DB_NAME=enterprise_app
 JWT_SECRET=your_jwt_secret_key
 ```
