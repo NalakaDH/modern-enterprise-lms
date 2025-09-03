@@ -1,0 +1,4 @@
+backend/
+database/
+*.md
+.gitignore
